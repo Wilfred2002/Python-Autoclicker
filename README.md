@@ -5,7 +5,7 @@ An autoclicker that will click wherever your mouse is automatically at a set cus
 
 ## How to Run
 
-Make sure to install pynput. Download autoclicker.py your terminal and type the command below
+Make sure to install pynput. Download autoclicker.py your terminal and type the commands below
 ```bash
 pip install pynput
 ```
