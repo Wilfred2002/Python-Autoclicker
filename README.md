@@ -2,10 +2,13 @@
 
 An autoclicker that will click wherever your mouse is automatically at a set custom interval for the user. Coded in python.
 
+
 ## How to Run
 
-Download autoclicker.py your terminal and type the command below
-
+Make sure to install pynput. Download autoclicker.py your terminal and type the command below
+```bash
+pip install pynput
+```
 ```bash
 python autoclicker.py
 ```
