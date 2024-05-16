@@ -12,7 +12,12 @@ pip install pynput
 ```bash
 python autoclicker.py
 ```
-
+## Customization
+Navigate to your local autoclicker.py file and check the variable TOGGLE_KEY and TimeBetweenClicks. You can change these to any variable as needed.
+```python
+TOGGLE_KEY = KeyCode(char="-")
+TimeBetweeenClicks = 70
+```
 
 ## Future Updates
 
